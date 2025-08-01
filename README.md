@@ -25,18 +25,11 @@
 </p>
 
 <h3 align="center">📊 Adventurer's Status Board 📊</h3>
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <p align="center">
+
+<p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=HayaXx&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true" alt="HayaXx's GitHub Stats" />
-        <br>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HayaXx&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-      </p>
-    </td>
-  
-  </tr>
-</table>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
