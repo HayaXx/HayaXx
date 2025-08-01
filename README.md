@@ -29,9 +29,70 @@
   <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
 </p>
 
-![Metrics](https://metrics.lecoq.io/HayaXx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Jakarta&config.order=base.header,repositories,isocalendar,habits&repositories=100&repositories.limit=8&repositories.forks=false&repositories.affiliations=owner&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=1000&habits.days=14&habits.charts=prs.merged,commits.total,issues.opened&habits.trim=true&theme=github_dark_dimmed&random=1)
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
-![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&habits=1&reactions=1&activity=1&projects=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&habits=false&habits.from=200&habits.days=18&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&projects=false&projects.limit=4&projects.descriptions=false&screenshot=false&screenshot.title=Screenshot&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&config.timezone=Asia%2FJakarta)
+          # Options
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 18
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_mode: image
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: Screenshot
+          plugin_screenshot_viewport: {
+  "width": 1280,
+  "height": 1280
+}
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
