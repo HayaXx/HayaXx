@@ -1,173 +1,124 @@
 <p align="center">
-  <samp>
-    <br>
-<pre>
-██╗  ██╗ █████╗ ██╗   ██╗ █████╗  ██╗  ██╗
-██║  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗ ╚██╗██╔╝
-███████║███████║ ╚████╔╝ ███████║  ╚███╔╝ 
-██╔══██║██╔══██║  ╚██╔╝  ██╔══██║  ██╔██╗ 
-██║  ██║██║  ██║   ██║   ██║  ██║ ██╔╝ ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝
-</pre>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/DA_a2nFL0ZwAAAAC/akira-shotaro-kaneda.gif" alt="Akira Bike GIF" width="600"/>
-</p>
-
-<p align="center">
-  <samp>
-    「 <strong>Digital Ronin</strong> 」 • 「 <strong>Fullstack Developer</strong> 」 • 「 <strong>UI/UX Architect</strong> 」 • 「 <strong>Anime Enthusiast</strong> 」
-  </samp>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0OGh0MGhzbWN5aGRyZGZ2cWJ4NXk4eTdpbzA0a3YzcGxsdm5nayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vdt01Q4lHdw3i2a55X/giphy.gif" alt="Mecha HUD" width="100%">
 </p>
 
 <div align="center">
-  <p align="center">Selamat datang di markas digital saya. Saya seorang pengembang yang menavigasi persimpangan antara kode, desain, dan kultur pop Jepang. Di sini, logika bertemu dengan estetika, dan setiap baris kode adalah sapuan kuas di atas kanvas digital.</p>
+<samp>
+<pre>
+██╗  ██╗ █████╗ ██╗   ██╗ █████╗  ██╗  ██╗  ██╗  ██╗
+██║  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗ ╚██╗██╔╝  ╚██╗██╔╝
+███████║███████║ ╚████╔╝ ███████║  ╚███╔╝    ╚███╔╝
+██╔══██║██╔══██║  ╚██╔╝  ██╔══██║  ██╔██╗    ██╔██╗
+██║  ██║██║  ██║   ██║   ██║  ██║ ██╔╝ ██╗  ██╔╝ ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═╝  ╚═╝
+</pre>
+</samp>
 </div>
 
 <p align="center">
-  <a href="https://github.com/HayaXx">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HayaXx&show_icons=true&locale=id&theme=tokyonight&count_private=true" alt="HayaXx's GitHub Stats" />
-  </a>
-  <a href="https://github.com/HayaXx">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HayaXx&locale=id&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <code>&lt;ACCESSING MAIN DATABASE.../&gt;</code>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=HayaXx&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+  <strong>Subject Name:</strong> HayaXx
+  <br>
+  <strong>Designation:</strong> Digital Ronin [ Fullstack Developer | UI/UX Architect ]
+  <br>
+  <strong>Primary Directive:</strong> Crafting elegant digital experiences where logic and aesthetics converge.
 </p>
 
-<img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/divider.svg" alt="divider" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
+</p>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFkN3pqb2JnbXBhcm1tcHpzZDN1cDBxaG1wZHR0bmlkY2U3eXFmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9hFTa5B4gUsc/giphy.gif" width="30" />
-  &nbsp;Tech Arsenal & Jutsu
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFkN3pqb2JnbXBhcm1tcHpzZDN1cDBxaG1wZHR0bmlkY2U3eXFmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9hFTa5B4gUsc/giphy.gif" width="30" />
-</h3>
+<p align="center">
+  <img src="https://metrics.lecoq.io/HayaXx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FJakarta&config.order=base.header%2C+repositories%2C+isocalendar%2C+habits&repositories=100&repositories.limit=8&repositories.forks=false&repositories.affiliations=owner&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=1000&habits.days=14&habits.charts=prs.merged%2C+commits.total%2C+issues.opened&habits.trim=true&theme=github_dark_dimmed" alt="Metrics" />
+</p>
 
-<table align="center" width="80%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
+</p>
+
+
+<table width="100%">
   <tr>
-    <td align="center">
-      <h4>💻 Programming Skills</h4>
-      <p>
-        <code>Javascript</code> <code>Typescript</code> <code>Python</code> <code>Go</code> <code>HTML5</code> <code>CSS3</code> <br>
-        <code>React.js</code> <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>Flask</code> <br>
-        <code>SQL</code> <code>MongoDB</code> <code>Docker</code> <code>Git</code> <code>CI/CD</code>
+    <td width="50%" valign="top">
+      <h3 align="center">⌬ Core Modules // Tech Stack ⌬</h3>
+      <p align="center">
+        <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+        <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+        <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+        <br>
+        <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+        <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
+        <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+        <br>
+        <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+        <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
       </p>
     </td>
-    <td align="center">
-      <h4>🎨 Design & UI/UX</h4>
-      <p>
-        <code>Figma</code> <code>Adobe XD</code> <code>Photoshop</code> <code>Illustrator</code> <br>
-        <code>UI Prototyping</code> <code>Wireframing</code> <br>
-        <code>Minimalism</code> <code>Glassmorphism</code> <code>Cyberpunk UI</code>
+    <td width="50%" valign="top">
+      <h3 align="center">⛶ System Diagnostics // GitHub Stats ⛶</h3>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=HayaXx&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="HayaXx's GitHub Stats" />
+        <br>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HayaXx&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
       </p>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/divider.svg" alt="divider" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
+</p>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l5b3U1dm5wcm9qbnQzZ2J0cTR3M2t6bzIxaHhjcGo0NDR4ajJzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z200aTcwE4AAb6V3tr/giphy.gif" width="30" />
-  &nbsp;My Project Showcase
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l5b3U1dm5wcm9qbnQzZ2J0cTR3M2t6bzIxaHhjcGo0NDR4ajJzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z200aTcwE4AAb6V3tr/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZqMmRiaTRwY3A0ZGRtdWlqM3BjcW50bmF3bnR3NW9hdmVsc3B4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w7i3c5g05s8ZK/giphy.gif" width="30" />
+  &nbsp;Manually Flagged Missions // Featured Projects
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZqMmRiaTRwY3A0ZGRtdWlqM3BjcW50bmF3bnR3NW9hdmVsc3B4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w7i3c5g05s8ZK/giphy.gif" width="30" />
 </h3>
 
 <p align="center">
-  <a href="https://github.com/HayaXx/NAMA_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_1&theme=tokyonight" />
+  <a href="https://github.com/HayaXx/NAMA_REPO_UNGGULAN_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_UNGGULAN_1&theme=github_dark" />
   </a>
-  <a href="https://github.com/HayaXx/NAMA_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_2&theme=tokyonight" />
-  </a>
-  <br>
-  <a href="https://github.com/HayaXx/NAMA_REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_3&theme=tokyonight" />
-  </a>
-   <a href="https://github.com/HayaXx/NAMA_REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_4&theme=tokyonight" />
+  <a href="https://github.com/HayaXx/NAMA_REPO_UNGGULAN_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_UNGGULAN_2&theme=github_dark" />
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/divider.svg" alt="divider" />
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg1cW1maWVscWJzYms1dXB1bTFuN29oYm5iZ2FqZ24wMjk0amQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C3l9KlsFhC2QZTtQ2R/giphy.gif" width="30" />
-  &nbsp;Sacred Texts & Watchlist
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg1cW1maWVscWJzYms1dXB1bTFuN29oYm5iZ2FqZ24wMjk0amQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C3l9KlsFhC2QZTtQ2R/giphy.gif" width="30" />
-</h3>
-
-<p align="center">Beberapa cerita yang membentuk cara saya memandang dunia dan seni.</p>
-
-<table align="center" width="70%">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Genre</th>
-      <th>MyAnimeList Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>⚔️ Attack on Titan</td>
-      <td>Action, Dark Fantasy, Drama</td>
-      <td align="center"><a href="https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Lihat di MAL</a></td>
-    </tr>
-    <tr>
-      <td>⏳ Steins;Gate</td>
-      <td>Sci-Fi, Thriller, Psychological</td>
-      <td align="center"><a href="https://myanimelist.net/anime/9253/Steins_Gate">Lihat di MAL</a></td>
-    </tr>
-    <tr>
-      <td>🌌 Jujutsu Kaisen</td>
-      <td>Action, Supernatural, Fantasy</td>
-      <td align="center"><a href="https://myanimelist.net/anime/40748/Jujutsu_Kaisen">Lihat di MAL</a></td>
-    </tr>
-     <tr>
-      <td>🌊 Vinland Saga</td>
-      <td>Action, Adventure, Historical, Drama</td>
-      <td align="center"><a href="https://myanimelist.net/anime/37521/Vinland_Saga">Lihat di MAL</a></td>
-    </tr>
-    <tr>
-      <td>👺 Vagabond (Manga)</td>
-      <td>Action, Adventure, Historical, Samurai</td>
-      <td align="center"><a href="https://myanimelist.net/manga/656/Vagabond">Lihat di MAL</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
 
 <p align="center">
-  <img src="https://github.com/HayaXx/HayaXx/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
 </p>
 
-> <p align="center"><i>“The world isn’t perfect. But it’s there for us, doing the best it can… that’s what makes it so damn beautiful.”</i></p>
-> <p align="center"><strong>— Roy Mustang (Fullmetal Alchemist)</strong></p>
+> <p align="center"><i>“Man fears the darkness, and so he scrapes away at the edges of it with fire.”</i></p>
+> <p align="center"><strong>— Rei Ayanami (Neon Genesis Evangelion)</strong></p>
 
-<img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/divider.svg" alt="divider" />
 
-<h3 align="center">
-  Connect with Me | 私に接続
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
+</p>
 
+<h3 align="center">Establish Comms Link // Find Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/username_anda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://twitter.com/username_anda" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/username_anda" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  &nbsp;
+  <a href="mailto:emailanda@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<br>
 <p align="center">
-  <img src="https://media1.tenor.com/m/tY42-94yS2AAAAAC/see-you-space-cowboy.gif" alt="See You Space Cowboy" width="250"/>
+  <img src="https://media1.tenor.com/m/tY42-94yS2AAAAAC/see-you-space-cowboy.gif" alt="See You Space Cowboy" width="300"/>
 </p>
+<p align="center"><code>&lt;...TRANSMISSION END.../&gt;</code></p>
