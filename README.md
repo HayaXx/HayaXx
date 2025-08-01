@@ -28,6 +28,7 @@
 
 <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=HayaXx&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true" alt="HayaXx's GitHub Stats" />
+  <br>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HayaXx&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
