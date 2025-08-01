@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xraGdwYW5sdm81dWdyM2JoMDA1b2F2bWMxZHl0bnh6N3RkNXE5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h7u3p9O3wh8h2/giphy.gif" alt="Anime Scenery Banner" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEzenQ2b3ZrdzB1OTFsc2V3cmN0ZDRjb2hoMGVjeWsxdzEwbXcyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif" alt="Anime Scenery Banner" width="100%">
 </p>
 
 <div align="center">
