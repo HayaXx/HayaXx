@@ -34,11 +34,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HayaXx&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=HayaXx&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-      </p>
-    </td>
+  
   </tr>
 </table>
 
