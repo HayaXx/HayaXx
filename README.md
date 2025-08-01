@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0OGh0MGhzbWN5aGRyZGZ2cWJ4NXk4eTdpbzA0a3YzcGxsdm5nayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vdt01Q4lHdw3i2a55X/giphy.gif" alt="Mecha HUD" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEzenQ2b3ZrdzB1OTFsc2V3cmN0ZDRjb2hoMGVjeWsxdzEwbXcyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif" alt="Mecha HUD" width="100%">
 </p>
 
 <div align="center">
