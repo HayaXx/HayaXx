@@ -74,10 +74,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZqMmRiaTRwY3A0ZGRtdWlqM3BjcW50bmF3bnR3NW9hdmVsc3B4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w7i3c5g05s8ZK/giphy.gif" width="30" />
 </h3>
 <p align="center">
-  <a href="https://github.com/HayaXx/NAMA_REPO_UNGGULAN_1">
+  <a href="https://github.com/HayaXx/hayaxx.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_UNGGULAN_1&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/HayaXx/NAMA_REPO_UNGGULAN_2">
+  <a href="https://github.com/HayaXx/FinOfLife">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_UNGGULAN_2&theme=github_dark&hide_border=true" />
   </a>
 </p>
@@ -96,7 +96,7 @@
 
 <h3 align="center">📨 Send a Raven // Let's Connect 📨</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/username_anda" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
