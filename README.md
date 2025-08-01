@@ -29,10 +29,7 @@
   <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
 </p>
 
-<p align="center">
 ![Metrics](https://metrics.lecoq.io/HayaXx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Jakarta&config.order=base.header,repositories,isocalendar,habits&repositories=100&repositories.limit=8&repositories.forks=false&repositories.affiliations=owner&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=1000&habits.days=14&habits.charts=prs.merged,commits.total,issues.opened&habits.trim=true&theme=github_dark_dimmed&random=1)
-</p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HayaXx/HayaXx/main/assets/neon-divider.svg" />
