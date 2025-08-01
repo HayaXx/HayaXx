@@ -27,7 +27,7 @@
 <h3 align="center">📊 Adventurer's Status Board 📊</h3>
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=HayaXx&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true" alt="HayaXx's GitHub Stats" />
         <br>
