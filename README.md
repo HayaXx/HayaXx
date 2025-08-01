@@ -69,16 +69,16 @@
 
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZqMmRiaTRwY3A0ZGRtdWlqM3BjcW50bmF3bnR3NW9hdmVsc3B4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w7i3c5g05s8ZK/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExZ29pOHVtM3N5ODUzdDVhYWM5bnZhMXdtZWVic2s1M3JzczluYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="30" />
   &nbsp;Legendary Quests // Featured Repositories
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZqMmRiaTRwY3A0ZGRtdWlqM3BjcW50bmF3bnR3NW9hdmVsc3B4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w7i3c5g05s8ZK/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExZ29pOHVtM3N5ODUzdDVhYWM5bnZhMXdtZWVic2s1M3JzczluYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="30" />
 </h3>
 <p align="center">
   <a href="https://github.com/HayaXx/hayaxx.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_UNGGULAN_1&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=HayaXx.github.io&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/HayaXx/FinOfLife">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=NAMA_REPO_UNGGULAN_2&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HayaXx&repo=FinOfLife&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
