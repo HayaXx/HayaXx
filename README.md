@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/HayaXx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FJakarta&config.order=base.header%2C+repositories%2C+isocalendar%2C+habits&repositories=100&repositories.limit=8&repositories.forks=false&repositories.affiliations=owner&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=1000&habits.days=14&habits.charts=prs.merged%2C+commits.total%2C+issues.opened&habits.trim=true&theme=github_dark_dimmed" alt="Metrics" />
+<img src="https://metrics.lecoq.io/HayaXx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Jakarta&config.order=base.header,repositories,isocalendar,habits&repositories=100&repositories.limit=8&repositories.forks=false&repositories.affiliations=owner&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=1000&habits.days=14&habits.charts=prs.merged,commits.total,issues.opened&habits.trim=true&theme=github_dark_dimmed&random=1" alt="GitHub Metrics" />
 </p>
 
 
